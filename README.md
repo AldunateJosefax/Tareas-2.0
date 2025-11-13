@@ -69,7 +69,7 @@ ggplot(datos_filtrados, aes(x = reorder(Región, porcentaje), y = porcentaje,
 
 Contemplemos el gráfico...
 
-![Gráfico de perritos](gráfico oficial.png)
+![](images/clipboard-4265337782.png)
 
 Es así, como podemos mirar un maravilloso gráfico lleno de color, que nos afirma que los perritos regalos suelen ser el modo de obtención más común, lo cual es bastante curioso porque este pudo haber sido comprado de igual manera. Lo que si de alguna u otra manera podemos decir que en la mayoría de las regiones la adopción está por sobre la compra de perro, lo cual es muy positivo.
 
