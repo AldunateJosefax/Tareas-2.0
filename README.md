@@ -2,7 +2,7 @@
 
 *Noviembre 13, 2025*
 
-En el norte de Chile, los perritos son parte del alma de cada ciudad. Desde las playas de Arica hasta las calles soleadas de Antofagasta, es común verlos acompañando a la gente, durmiendo bajo una sombra o moviendo la cola en las ferias. Las condiciones extremas —el sol implacable, el desierto infinito y las largas distancias— hacen que la vida para muchos de ellos no sea fácil, pero también revelan el enorme cariño y compromiso de las comunidades locales.
+En el norte de Chile, los perritos son parte del alma de cada ciudad. Desde las playas de Arica hasta las calles soleadas de Antofagasta, es común verlos acompañando a la gente, durmiendo bajo una sombra o moviendo la cola en las ferias. Las condiciones extremas el sol implacable, el desierto infinito y las largas distancias hacen que la vida para muchos de ellos no sea fácil, pero también revelan el enorme cariño y compromiso de las comunidades locales.
 
 ### **En primer lugar,** es importante cargar todas los paquetes que utilizaremos a lo largo del trabajo.
 
