@@ -25,6 +25,8 @@ library(ggplot2)
 
 Una vez cargadas las libererias, llamaremos a nuestra base de datos, que fue descargada del Informe final: Estimación de la población canina y felina del país y diagnóstico de la tenencia responsable, de SUBDERE.
 
+Link: https://proactiva.subdere.gov.cl/handle/123456789/644?utm_source=chatgpt.com
+
 ```{r}
 datos <- read_xlsx("RNMAC al 30-09-2025 (1).xlsx")
 ```
