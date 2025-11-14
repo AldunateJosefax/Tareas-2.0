@@ -83,6 +83,6 @@ Contemplemos el gráfico...
 
 ![](images/clipboard-4265337782.png)
 
-Es así, como podemos mirar un maravilloso gráfico lleno de color, que nos afirma que los perritos regalados suelen ser el modo de obtención más común, lo cual es bastante curioso porque este pudo haber sido comprado de igual manera. Lo que si de alguna u otra manera podemos decir que en la mayoría de las regiones la adopción está por sobre la compra de perros, lo cual es muy positivo.
+Es así, como podemos mirar un maravilloso gráfico lleno de color, que nos afirma que los perritos regalados suelen ser el modo de obtención más común en la zona norte, lo cual es bastante curioso porque no nos aclara si este fue comprado o rescatado. Lo que si de alguna u otra manera podemos decir que en la mayoría de las regiones del norte la adopción está por sobre la compra de perro, lo cual es muy positivo y esperanzador de que siga creciendo y así mantenerme en mi burbuja de buenas personas.
 
 ¡Digamos NO a la compra y venta de animales!
