@@ -39,7 +39,11 @@ datos <- read_xlsx("RNMAC al 30-09-2025 (1).xlsx")
 
 Ahora veamos como es la base de datos `view(datos)` y podemos aprovechar de ver que variables tiene `colnames(datos)`
 
-Es importante tener en consideración que al ser una base tan pesada en excel, debemos darle la indicación a R y Github que esta no será incluida en el repositorio - esta fue una de las cosas más complejas, ya que no sabía que era posible.
+Es importante tener en consideración que al ser una base tan pesada en excel, debemos darle la indicación a R y Github que esta no será incluida en el repositorio - esta fue una de las cosas más complejas, ya que no sabía que era posible. Por ello se debe utilizar este código desde la consola.
+
+```{r}
+usethis::use_git_ignore("RNMAC al 30-09-2025 (1).xlsx")
+```
 
 Ahora limpiaremos la base con las categorías que nos interesan, ya que hay muchas y nosotros en verdad sólo queremos saber que tanto adoptan jajaja, por lo que nos enfocaremos en Región y el Modo de obtención.
 
